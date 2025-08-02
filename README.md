@@ -22,4 +22,7 @@ Currently testing pull request flow for achievements.
 
 ---
 
+Added detailed README for YOLO badge
+
+
 Made with 💖 by Saritha Chowdary
