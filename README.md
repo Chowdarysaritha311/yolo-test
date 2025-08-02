@@ -28,3 +28,10 @@ Added detailed README for YOLO badge
 Made with 💖 by Saritha Chowdary
 
 🎉 Practicing GitHub Pull Requests for YOLO badge!
+
+
+
+YOLO update test 🚀✨
+
+
+Added YOLO test update
